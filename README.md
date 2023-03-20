@@ -1,5 +1,7 @@
 # Hotel Booking Analysis EDA
 
+https://public.tableau.com/views/ravikumarHotelBookingAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ![Alt text](https://github.com/raviatkumar/Hotel-Booking-Analysis-EDA/blob/main/Image/Hotel.jpg)
 
 This dataset contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
