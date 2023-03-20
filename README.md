@@ -1,5 +1,6 @@
 # Hotel Booking Analysis EDA
 
+## Tableau Link:
 https://public.tableau.com/views/ravikumarHotelBookingAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ![Alt text](https://github.com/raviatkumar/Hotel-Booking-Analysis-EDA/blob/main/Image/Hotel.jpg)
