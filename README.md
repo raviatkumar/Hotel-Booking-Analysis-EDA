@@ -2,7 +2,8 @@
 
 ## Tableau
 ![Alt text](https://raw.githubusercontent.com/raviatkumar/Hotel-Booking-Analysis-EDA/main/Image/hotel%20booking%20analysis.PNG)
-## Link:https://public.tableau.com/views/ravikumarHotelBookingAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+###### Link:https://public.tableau.com/views/ravikumarHotelBookingAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 This dataset contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
 Using the matplotlib and seaborn libraries, EDA on Hotel Booking Analysis
